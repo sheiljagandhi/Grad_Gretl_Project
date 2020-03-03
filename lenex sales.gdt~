@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.3" name="lenex sales" frequency="12" startobs="1960:01" endobs="1971:12" type="time-series">
+<description>Data imported from Excel file 'lenex work.xlsx', 2016-03-02 18:42
+</description>
+<variables count="2">
+<variable name="radio_sales"
+/>
+<variable name="d_radio_sales"
+ label="= first difference of radio_sales"
+ parent="radio_sales"
+ transform="diff"
+/>
+</variables>
+<observations count="144" labels="false">
+<obs>2079 NA </obs>
+<obs>1952 -127 </obs>
+<obs>1941 -11 </obs>
+<obs>2311 370 </obs>
+<obs>3035 724 </obs>
+<obs>2276 -759 </obs>
+<obs>3514 1238 </obs>
+<obs>2398 -1116 </obs>
+<obs>2734 336 </obs>
+<obs>2650 -84 </obs>
+<obs>2847 197 </obs>
+<obs>2495 -352 </obs>
+<obs>2592 97 </obs>
+<obs>3190 598 </obs>
+<obs>2741 -449 </obs>
+<obs>2806 65 </obs>
+<obs>2993 187 </obs>
+<obs>2704 -289 </obs>
+<obs>2999 295 </obs>
+<obs>2640 -359 </obs>
+<obs>2360 -280 </obs>
+<obs>2413 53 </obs>
+<obs>2501 88 </obs>
+<obs>2391 -110 </obs>
+<obs>2328 -63 </obs>
+<obs>2691 363 </obs>
+<obs>3045 354 </obs>
+<obs>2918 -127 </obs>
+<obs>3071 153 </obs>
+<obs>2847 -224 </obs>
+<obs>3141 294 </obs>
+<obs>2730 -411 </obs>
+<obs>2546 -184 </obs>
+<obs>2255 -291 </obs>
+<obs>2536 281 </obs>
+<obs>2495 -41 </obs>
+<obs>2373 -122 </obs>
+<obs>2734 361 </obs>
+<obs>2985 251 </obs>
+<obs>2889 -96 </obs>
+<obs>3109 220 </obs>
+<obs>2638 -471 </obs>
+<obs>3940 1302 </obs>
+<obs>2986 -954 </obs>
+<obs>3178 192 </obs>
+<obs>3122 -56 </obs>
+<obs>2559 -563 </obs>
+<obs>2625 66 </obs>
+<obs>2584 -41 </obs>
+<obs>3271 687 </obs>
+<obs>3287 16 </obs>
+<obs>3536 249 </obs>
+<obs>4042 506 </obs>
+<obs>3165 -877 </obs>
+<obs>4119 954 </obs>
+<obs>3178 -941 </obs>
+<obs>3449 271 </obs>
+<obs>3687 238 </obs>
+<obs>4187 500 </obs>
+<obs>3112 -1075 </obs>
+<obs>3571 459 </obs>
+<obs>3755 184 </obs>
+<obs>4303 548 </obs>
+<obs>4651 348 </obs>
+<obs>4128 -523 </obs>
+<obs>3953 -175 </obs>
+<obs>4646 693 </obs>
+<obs>3622 -1024 </obs>
+<obs>3929 307 </obs>
+<obs>4183 254 </obs>
+<obs>3936 -247 </obs>
+<obs>3758 -178 </obs>
+<obs>3605 -153 </obs>
+<obs>3919 314 </obs>
+<obs>3526 -393 </obs>
+<obs>2997 -529 </obs>
+<obs>2883 -114 </obs>
+<obs>2346 -537 </obs>
+<obs>2773 427 </obs>
+<obs>2539 -234 </obs>
+<obs>3052 513 </obs>
+<obs>3311 259 </obs>
+<obs>3836 525 </obs>
+<obs>2942 -894 </obs>
+<obs>3356 414 </obs>
+<obs>4070 714 </obs>
+<obs>3657 -413 </obs>
+<obs>3348 -309 </obs>
+<obs>3562 214 </obs>
+<obs>3335 -227 </obs>
+<obs>3660 325 </obs>
+<obs>3426 -234 </obs>
+<obs>3530 104 </obs>
+<obs>3263 -267 </obs>
+<obs>3471 208 </obs>
+<obs>3212 -259 </obs>
+<obs>3600 388 </obs>
+<obs>3408 -192 </obs>
+<obs>3921 513 </obs>
+<obs>3462 -459 </obs>
+<obs>3408 -54 </obs>
+<obs>3315 -93 </obs>
+<obs>4463 1148 </obs>
+<obs>3213 -1250 </obs>
+<obs>3195 -18 </obs>
+<obs>2976 -219 </obs>
+<obs>2759 -217 </obs>
+<obs>2659 -100 </obs>
+<obs>3419 760 </obs>
+<obs>3348 -71 </obs>
+<obs>3311 -37 </obs>
+<obs>3488 177 </obs>
+<obs>2941 -547 </obs>
+<obs>3142 201 </obs>
+<obs>2935 -207 </obs>
+<obs>2440 -495 </obs>
+<obs>2591 151 </obs>
+<obs>2314 -277 </obs>
+<obs>2346 32 </obs>
+<obs>2252 -94 </obs>
+<obs>1990 -262 </obs>
+<obs>2354 364 </obs>
+<obs>2639 285 </obs>
+<obs>2915 276 </obs>
+<obs>2977 62 </obs>
+<obs>3105 128 </obs>
+<obs>2994 -111 </obs>
+<obs>2454 -540 </obs>
+<obs>2372 -82 </obs>
+<obs>2709 337 </obs>
+<obs>2833 124 </obs>
+<obs>3173 340 </obs>
+<obs>2250 -923 </obs>
+<obs>2831 581 </obs>
+<obs>3351 520 </obs>
+<obs>3275 -76 </obs>
+<obs>3271 -4 </obs>
+<obs>3218 -53 </obs>
+<obs>3732 514 </obs>
+<obs>2813 -919 </obs>
+<obs>2845 32 </obs>
+<obs>3036 191 </obs>
+<obs>2996 -40 </obs>
+<obs>2670 -326 </obs>
+</observations>
+</gretldata>

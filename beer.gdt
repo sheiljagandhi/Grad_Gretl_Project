@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.3" name="beer" frequency="12" startobs="1970:01" endobs="1974:04" type="time-series">
+<description>Data imported from Excel file 'fourweekly-totals-of-beer-shipme.xls', 2017-04-10 11:40
+</description>
+<variables count="2">
+<variable name="Month"
+/>
+<variable name="beer"
+/>
+</variables>
+<observations count="52" labels="false">
+<obs>25573 18705 </obs>
+<obs>25601 20232 </obs>
+<obs>25629 20467 </obs>
+<obs>25657 22123 </obs>
+<obs>25685 25036 </obs>
+<obs>25713 26839 </obs>
+<obs>25741 29640 </obs>
+<obs>25769 30935 </obs>
+<obs>25797 28278 </obs>
+<obs>25825 24235 </obs>
+<obs>25853 22370 </obs>
+<obs>25881 21224 </obs>
+<obs>25909 21061 </obs>
+<obs>25937 19598 </obs>
+<obs>25965 21463 </obs>
+<obs>25993 23287 </obs>
+<obs>26021 24065 </obs>
+<obs>26049 27447 </obs>
+<obs>26077 30413 </obs>
+<obs>26105 32307 </obs>
+<obs>26133 32974 </obs>
+<obs>26161 29973 </obs>
+<obs>26189 23986 </obs>
+<obs>26217 26953 </obs>
+<obs>26245 24250 </obs>
+<obs>26273 23518 </obs>
+<obs>26301 20816 </obs>
+<obs>26329 23743 </obs>
+<obs>26357 25152 </obs>
+<obs>26385 28804 </obs>
+<obs>26413 31158 </obs>
+<obs>26441 31540 </obs>
+<obs>26469 32849 </obs>
+<obs>26497 33748 </obs>
+<obs>26525 31910 </obs>
+<obs>26553 27609 </obs>
+<obs>26581 25170 </obs>
+<obs>26609 24040 </obs>
+<obs>26637 25368 </obs>
+<obs>26665 21260 </obs>
+<obs>26693 24109 </obs>
+<obs>26721 26320 </obs>
+<obs>26749 27701 </obs>
+<obs>26777 34502 </obs>
+<obs>26805 33297 </obs>
+<obs>26833 31252 </obs>
+<obs>26861 35173 </obs>
+<obs>26889 36207 </obs>
+<obs>26917 31511 </obs>
+<obs>26945 28560 </obs>
+<obs>26973 26828 </obs>
+<obs>27001 26660 </obs>
+</observations>
+</gretldata>

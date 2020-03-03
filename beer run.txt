@@ -1,0 +1,14 @@
+libname mylib '\\client\C$\Users\ska669\Documents\DA6823 summer 2017\holt winter';
+data mytemp;
+set mylib.beer;
+proc forecast data=mytemp
+method=addwinters
+trend=2
+weight=(0.20 0.10 0.05)
+out=myholt outfull outestall
+seasons=12;
+id monthnum;
+var beer;
+run;
+proc print data=myholt;
+run;
